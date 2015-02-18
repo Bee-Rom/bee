@@ -1,0 +1,9 @@
+Bee Rom
+-------
+To initialize
+
+    repo init -u git://github.com/CyanogenMod/android_manifest.git -b beepop
+
+Then to sync up:
+
+    repo sync
